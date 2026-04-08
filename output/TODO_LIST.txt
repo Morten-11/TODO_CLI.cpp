@@ -1,0 +1,4 @@
+3;0;4;Staubsaugen
+2;0;3;Lernen
+4;0;2;Musik hören
+5;0;1;Fenster putzen
