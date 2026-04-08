@@ -23,7 +23,27 @@ An example TODO list is already provided in the output directory.
 If you start with an empty directory, the program will create and manage your own TODO file automatically.
 
 ## Example
-TODO insert example with screenshots
+
+### Interface
+![](assets/Interface.png)
+
+### Listing tasks
+![](assets/list.png)
+
+### Adding a task (+list tasks)
+![](assets/add_task.png)
+
+### Check off a task (+list tasks)
+![](assets/check_off_task.png)
+
+### Edit a priority value (+list tasks)
+![](assets/edit_priority.png)
+
+### Delete all completed tasks (+list tasks)
+![](assets/delete_completed_tasks.png)
+
+### Delete a specific task (+list tasks)
+![](assets/delete_specific_task.png)
 
 ## Notes
 - a C++ compiler is required to run the program
